@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="springframework1">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework" />
+    </ANNOTATIONS>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
